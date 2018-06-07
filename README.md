@@ -11,11 +11,11 @@ I'm following their [tutorial](https://flutter.io/get-started/codelab/) to get f
 
 Here's what I created!
 
-![namer app 1](https://i.imgur.com/oN0Sc8j.png)
+![namer app 1](https://i.imgur.com/oN0Sc8jm.png)
 
-![namer app 2](https://i.imgur.com/UodszkO.png)
+![namer app 2](https://i.imgur.com/UodszkOm.png)
 
-![namer app 3](https://i.imgur.com/UibmIG9.png)
+![namer app 3](https://i.imgur.com/UibmIG9m.png)
 
 If you'd like to see more flutter apps by me, be sure to check out my [flutter bug](https://github.com/Lexscher/flutter_bug) repo!
 
